@@ -1,1 +1,2 @@
 wa_automate_socket_client
+gunicorn
