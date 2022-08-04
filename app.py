@@ -1,7 +1,7 @@
 from wa_automate_socket_client import  SocketClient
 
 
-client = SocketClient("https://wa-automate-local.herokuapp.com/",'RoT0qvZ0uK')
+client = SocketClient("https://rehan-171.herokuapp.com/",'171')
 
 
 def repy(message):
