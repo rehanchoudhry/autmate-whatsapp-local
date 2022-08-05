@@ -1,1 +1,1 @@
-web: python app.py
+web: nodeman app.py --log-file=-
